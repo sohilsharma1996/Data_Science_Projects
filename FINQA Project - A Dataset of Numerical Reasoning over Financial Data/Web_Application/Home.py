@@ -43,6 +43,7 @@ st.write("KAGGLE LINK: [https://www.kaggle.com/datasets/visalakshiiyer/question-
 st.write("Papers with Code LINK: [https://paperswithcode.com/paper/finqa-a-dataset-of-numerical-reasoning-over](https://paperswithcode.com/paper/finqa-a-dataset-of-numerical-reasoning-over)")
 st.write("HTML Page for an Example: [https://finqasite.github.io/explore.html](https://finqasite.github.io/explore.html)")
 st.write("CodaLab Competitions Page: [https://codalab.lisn.upsaclay.fr/competitions/1846#learn_the_details](https://codalab.lisn.upsaclay.fr/competitions/1846#learn_the_details)")
+st.write("My Project Link: [https://encr.pw/UWoxc](https://github.com/sohilsharma1996/Data_Science_Projects/tree/main/FINQA%20Project%20-%20A%20Dataset%20of%20Numerical%20Reasoning%20over%20Financial%20Data)")
 
 st.header("Objectives of this Project: ")
 st.text("""
