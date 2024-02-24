@@ -1,0 +1,12 @@
+Hi. This is Wallet , your Question Answering System on Questions regarding Financial Documents.
+
+Let me tell you how I work. 
+
+In the Context, you can put all the Text Data or Tabular Data that you need me to look upon for answering your Questions.
+In the Questions Tab, you can put the questions that relate to the context you want more insights upon.
+
+Upon generating , you will get the Numerical Answer as well as the Explanation for calculating the Answer.
+
+Thanks and hope you like my Services !!
+
+
