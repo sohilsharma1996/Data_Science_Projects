@@ -12,6 +12,8 @@
 - Data consists of 4 JSON files: Training Data , Validation Data , Test Data and Private Test Data.
 Each Row in every Dataset provided consists of a specific passage considered from a Financial Report. And the Data is being considered based on the publicly available earnings reports of S&P 500 companies from 1999 to 2019, collected in the FinTabNet dataset.
 
+- ![Medium Blog Link](https://medium.com/@sohilsharma1996/finqa-project-numerical-reasoning-over-financial-data-77a3fb4133d2))
+
 - ![Percentage Distribution of the Number of Operations required to answer the Financial Question](https://github.com/sohilsharma1996/Data_Science_Projects/assets/96937552/be8e1d56-2059-4280-9916-7001a58b1562)
 
 - ![Bar Chart for Frequency of Companies in the Reports](https://github.com/sohilsharma1996/Data_Science_Projects/assets/96937552/f83f9854-f69c-4dc4-9df4-183915aff709)
