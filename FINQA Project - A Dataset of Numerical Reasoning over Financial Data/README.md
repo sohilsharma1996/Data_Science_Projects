@@ -3,7 +3,7 @@
 - The sheer volume of financial statements makes it difficult for humans to access and analyze a business's financials. Robust numerical reasoning likewise faces unique challenges in this domain. In this work, we focus on answering deep questions over financial data, aiming to automate the analysis of a large corpus of financial documents. In contrast to existing tasks on general domain, the finance domain includes complex numerical reasoning and understanding of heterogeneous representations. To facilitate analytical progress, we propose a new large-scale dataset, FinQA, with Question-Answering pairs over Financial reports, written by financial experts.
   
 - Here, given Input Data in the form of Structured Tables and Unstructured Text , we need to find out the Solutions as per the Question asked , as per the Mathematical Calculations.
-- Medium Blog LINK: [https://github.com/czyssrs/FinQA/tree/main](https://medium.com/@sohilsharma1996/finqa-project-numerical-reasoning-over-financial-data-77a3fb4133d2)
+- Medium Blog LINK: https://medium.com/@sohilsharma1996/finqa-project-numerical-reasoning-over-financial-data-77a3fb4133d2
 - GITHUB LINK: https://github.com/czyssrs/FinQA/tree/main
 - KAGGLE LINK: https://www.kaggle.com/datasets/visalakshiiyer/question-answering-financial-data
 - Papers with Code LINK: https://paperswithcode.com/paper/finqa-a-dataset-of-numerical-reasoning-over
