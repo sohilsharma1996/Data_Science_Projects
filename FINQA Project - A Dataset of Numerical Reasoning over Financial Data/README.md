@@ -3,6 +3,7 @@
 - The sheer volume of financial statements makes it difficult for humans to access and analyze a business's financials. Robust numerical reasoning likewise faces unique challenges in this domain. In this work, we focus on answering deep questions over financial data, aiming to automate the analysis of a large corpus of financial documents. In contrast to existing tasks on general domain, the finance domain includes complex numerical reasoning and understanding of heterogeneous representations. To facilitate analytical progress, we propose a new large-scale dataset, FinQA, with Question-Answering pairs over Financial reports, written by financial experts.
   
 - Here, given Input Data in the form of Structured Tables and Unstructured Text , we need to find out the Solutions as per the Question asked , as per the Mathematical Calculations.
+- Medium Blog LINK: [https://github.com/czyssrs/FinQA/tree/main](https://medium.com/@sohilsharma1996/finqa-project-numerical-reasoning-over-financial-data-77a3fb4133d2)
 - GITHUB LINK: https://github.com/czyssrs/FinQA/tree/main
 - KAGGLE LINK: https://www.kaggle.com/datasets/visalakshiiyer/question-answering-financial-data
 - Papers with Code LINK: https://paperswithcode.com/paper/finqa-a-dataset-of-numerical-reasoning-over
@@ -11,8 +12,6 @@
 
 - Data consists of 4 JSON files: Training Data , Validation Data , Test Data and Private Test Data.
 Each Row in every Dataset provided consists of a specific passage considered from a Financial Report. And the Data is being considered based on the publicly available earnings reports of S&P 500 companies from 1999 to 2019, collected in the FinTabNet dataset.
-
-- ![Medium Blog Link](https://medium.com/@sohilsharma1996/finqa-project-numerical-reasoning-over-financial-data-77a3fb4133d2))
 
 - ![Percentage Distribution of the Number of Operations required to answer the Financial Question](https://github.com/sohilsharma1996/Data_Science_Projects/assets/96937552/be8e1d56-2059-4280-9916-7001a58b1562)
 
